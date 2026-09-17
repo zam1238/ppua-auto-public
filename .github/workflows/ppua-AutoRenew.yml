@@ -2,7 +2,7 @@ name: 🔄 PPUA AutoRenew
 
 on:
   schedule:
-    - cron: '43 0 1 * *'
+    - cron: '43 0 5 * *'
   workflow_dispatch:
 
 permissions:
